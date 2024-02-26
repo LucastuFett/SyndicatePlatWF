@@ -1,5 +1,5 @@
 {
-  "name": "warframe.market-api-example",
+  "name": "syndicate-plat-wf",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "start": "node ."
   },
   "keywords": [],
-  "author": "",
-  "license": "WTFPL",
+  "author": "lucasgutie@hotmail.com",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2"
   }
