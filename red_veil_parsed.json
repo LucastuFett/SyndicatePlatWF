@@ -1,56 +1,67 @@
-{"title":"Swift Bite","minimum":5,"average":"24.51","median":20,"maximum":100,"minPlatPer10kRep":2,"averagePlatPer10kRep":"9.80","medianPlatPer10kRep":8,"maxPlatPer10kRep":40}
-{"title":"Spellbound Harvest","minimum":10,"average":"23.46","median":20,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"9.38","medianPlatPer10kRep":8,"maxPlatPer10kRep":40}
-{"title":"Tribunal","minimum":5,"average":"21.77","median":16,"maximum":100,"minPlatPer10kRep":2,"averagePlatPer10kRep":"8.71","medianPlatPer10kRep":6.4,"maxPlatPer10kRep":40}
-{"title":"Safeguard Switch","minimum":10,"average":"23.79","median":16,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"9.52","medianPlatPer10kRep":6.4,"maxPlatPer10kRep":40}
-{"title":"Gleaming Blight","minimum":7,"average":"20.50","median":15,"maximum":100,"minPlatPer10kRep":2.8,"averagePlatPer10kRep":"8.20","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Eroding Blight","minimum":6,"average":"21.71","median":15,"maximum":100,"minPlatPer10kRep":2.4,"averagePlatPer10kRep":"8.68","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Stockpiled Blight","minimum":5,"average":"21.69","median":15,"maximum":100,"minPlatPer10kRep":2,"averagePlatPer10kRep":"8.68","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Seeking Shuriken","minimum":8,"average":"17.19","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"6.88","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Smoke Shadow","minimum":9,"average":"20.70","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.28","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Fatal Teleport","minimum":5,"average":"18.93","median":15,"maximum":100,"minPlatPer10kRep":2,"averagePlatPer10kRep":"7.57","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Rising Storm","minimum":9,"average":"20.44","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.18","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Path of Statues","minimum":9,"average":"21.80","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.72","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Tectonic Fracture","minimum":10,"average":"20.85","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"8.34","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Ore Gaze","minimum":9,"average":"21.22","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.49","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Titanic Rumbler","minimum":6,"average":"20.61","median":15,"maximum":100,"minPlatPer10kRep":2.4,"averagePlatPer10kRep":"8.24","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Rubble Heap","minimum":10,"average":"21.50","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"8.60","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Fireball Frenzy","minimum":9,"average":"21.54","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.62","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Immolated Radiance","minimum":7,"average":"20.60","median":15,"maximum":100,"minPlatPer10kRep":2.8,"averagePlatPer10kRep":"8.24","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Healing Flame","minimum":9,"average":"21.56","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.62","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Exothermic","minimum":8,"average":"19.06","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"7.62","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Dread Ward","minimum":9,"average":"19.84","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"7.94","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Blood Forge","minimum":8,"average":"20.22","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"8.09","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Blending Talons","minimum":10,"average":"22.12","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"8.85","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Gourmand","minimum":10,"average":"21.03","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"8.41","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Hearty Nourishment","minimum":9,"average":"21.10","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.44","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Catapult","minimum":9,"average":"21.33","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.53","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Warding Thurible","minimum":5,"average":"20.74","median":15,"maximum":100,"minPlatPer10kRep":2,"averagePlatPer10kRep":"8.30","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Lasting Covenant","minimum":8,"average":"18.65","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"7.46","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Accumulating Whipclaw","minimum":7,"average":"16.15","median":15,"maximum":100,"minPlatPer10kRep":2.8,"averagePlatPer10kRep":"6.46","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Venari Bodyguard","minimum":9,"average":"21.20","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.48","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Savior Decoy","minimum":10,"average":"22.84","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"9.14","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Hushed Invisibility","minimum":10,"average":"19.96","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"7.98","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Irradiating Disarm","minimum":10,"average":"21.79","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"8.72","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Ballistic Bullseye","minimum":8,"average":"20.86","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"8.34","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Staggering Shield","minimum":8,"average":"21.65","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"8.66","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Muzzle Flash","minimum":9,"average":"21.12","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.45","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Mesa's Waltz","minimum":7,"average":"16.65","median":15,"maximum":100,"minPlatPer10kRep":2.8,"averagePlatPer10kRep":"6.66","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Soul Survivor","minimum":5,"average":"23.30","median":15,"maximum":100,"minPlatPer10kRep":2,"averagePlatPer10kRep":"9.32","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Creeping Terrify","minimum":9,"average":"21.27","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.51","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Shield of Shadows","minimum":8,"average":"19.61","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"7.84","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Venom Dose","minimum":8,"average":"17.27","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"6.91","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Revealing Spores","minimum":7,"average":"20.27","median":15,"maximum":100,"minPlatPer10kRep":2.8,"averagePlatPer10kRep":"8.11","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Regenerative Molt","minimum":8,"average":"19.48","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"7.79","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Contagion Cloud","minimum":8,"average":"19.83","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"7.93","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Beguiling Lantern","minimum":10,"average":"21.71","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"8.68","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
-{"title":"Toxic Blight","minimum":4,"average":"18.32","median":14,"maximum":100,"minPlatPer10kRep":1.6,"averagePlatPer10kRep":"7.33","medianPlatPer10kRep":5.6,"maxPlatPer10kRep":40}
-{"title":"Kaszas Blade","minimum":8,"average":"13.99","median":10,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"7.00","medianPlatPer10kRep":5,"maxPlatPer10kRep":50}
-{"title":"Velocitus Stock","minimum":7,"average":"14.06","median":10,"maximum":100,"minPlatPer10kRep":3.5,"averagePlatPer10kRep":"7.03","medianPlatPer10kRep":5,"maxPlatPer10kRep":50}
-{"title":"Rathbone Handle","minimum":5,"average":"14.10","median":10,"maximum":90,"minPlatPer10kRep":2.5,"averagePlatPer10kRep":"7.05","medianPlatPer10kRep":5,"maxPlatPer10kRep":45}
-{"title":"Agkuza Handle","minimum":5,"average":"12.81","median":10,"maximum":100,"minPlatPer10kRep":2.5,"averagePlatPer10kRep":"6.41","medianPlatPer10kRep":5,"maxPlatPer10kRep":50}
-{"title":"Fluctus Limbs","minimum":5,"average":"13.61","median":10,"maximum":70,"minPlatPer10kRep":2.5,"averagePlatPer10kRep":"6.80","medianPlatPer10kRep":5,"maxPlatPer10kRep":35}
-{"title":"Pilfering Strangledome","minimum":7,"average":"14.89","median":12,"maximum":100,"minPlatPer10kRep":2.8,"averagePlatPer10kRep":"5.96","medianPlatPer10kRep":4.8,"maxPlatPer10kRep":40}
-{"title":"Despoil","minimum":5,"average":"14.99","median":12,"maximum":100,"minPlatPer10kRep":2,"averagePlatPer10kRep":"6.00","medianPlatPer10kRep":4.8,"maxPlatPer10kRep":40}
-{"title":"Rakta Ballistica","minimum":15,"average":"44.01","median":35,"maximum":150,"minPlatPer10kRep":1.5,"averagePlatPer10kRep":"4.40","medianPlatPer10kRep":3.5,"maxPlatPer10kRep":15}
-{"title":"Rakta Dark Dagger","minimum":24,"average":"45.71","median":40,"maximum":150,"minPlatPer10kRep":1.92,"averagePlatPer10kRep":"3.66","medianPlatPer10kRep":3.2,"maxPlatPer10kRep":12}
-{"title":"Rakta Cernos","minimum":15,"average":"42.70","median":35,"maximum":200,"minPlatPer10kRep":1.2,"averagePlatPer10kRep":"3.42","medianPlatPer10kRep":2.8,"maxPlatPer10kRep":16}
+{"title":"Swift Bite","minimum":5,"average":"24.72","median":20,"maximum":100,"minPlatPer10kRep":2,"averagePlatPer10kRep":"9.89","medianPlatPer10kRep":8,"maxPlatPer10kRep":40}
+{"title":"Spellbound Harvest","minimum":10,"average":"23.58","median":20,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"9.43","medianPlatPer10kRep":8,"maxPlatPer10kRep":40}
+{"title":"Soul Survivor","minimum":5,"average":"23.43","median":18,"maximum":100,"minPlatPer10kRep":2,"averagePlatPer10kRep":"9.37","medianPlatPer10kRep":7.2,"maxPlatPer10kRep":40}
+{"title":"Target Fixation","minimum":7,"average":"24.45","median":18,"maximum":100,"minPlatPer10kRep":2.8,"averagePlatPer10kRep":"9.78","medianPlatPer10kRep":7.2,"maxPlatPer10kRep":40}
+{"title":"Airburst Rounds","minimum":7,"average":"22.18","median":18,"maximum":100,"minPlatPer10kRep":2.8,"averagePlatPer10kRep":"8.87","medianPlatPer10kRep":7.2,"maxPlatPer10kRep":40}
+{"title":"Funnel Clouds","minimum":9,"average":"22.47","median":17,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.99","medianPlatPer10kRep":6.8,"maxPlatPer10kRep":40}
+{"title":"Anchored Glide","minimum":7,"average":"23.46","median":17,"maximum":100,"minPlatPer10kRep":2.8,"averagePlatPer10kRep":"9.38","medianPlatPer10kRep":6.8,"maxPlatPer10kRep":40}
+{"title":"Safeguard Switch","minimum":10,"average":"23.53","median":16,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"9.41","medianPlatPer10kRep":6.4,"maxPlatPer10kRep":40}
+{"title":"Gleaming Blight","minimum":1,"average":"20.67","median":15,"maximum":100,"minPlatPer10kRep":0.4,"averagePlatPer10kRep":"8.27","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Eroding Blight","minimum":6,"average":"21.73","median":15,"maximum":100,"minPlatPer10kRep":2.4,"averagePlatPer10kRep":"8.69","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Stockpiled Blight","minimum":5,"average":"21.44","median":15,"maximum":100,"minPlatPer10kRep":2,"averagePlatPer10kRep":"8.58","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Seeking Shuriken","minimum":8,"average":"17.18","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"6.87","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Smoke Shadow","minimum":9,"average":"20.71","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.28","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Fatal Teleport","minimum":5,"average":"18.91","median":15,"maximum":100,"minPlatPer10kRep":2,"averagePlatPer10kRep":"7.56","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Rising Storm","minimum":9,"average":"20.54","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.22","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Path of Statues","minimum":9,"average":"21.54","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.62","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Tectonic Fracture","minimum":10,"average":"20.80","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"8.32","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Ore Gaze","minimum":9,"average":"21.03","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.41","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Titanic Rumbler","minimum":6,"average":"20.51","median":15,"maximum":100,"minPlatPer10kRep":2.4,"averagePlatPer10kRep":"8.20","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Rubble Heap","minimum":10,"average":"21.55","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"8.62","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Fireball Frenzy","minimum":9,"average":"21.57","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.63","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Immolated Radiance","minimum":7,"average":"20.74","median":15,"maximum":100,"minPlatPer10kRep":2.8,"averagePlatPer10kRep":"8.30","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Healing Flame","minimum":9,"average":"21.55","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.62","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Exothermic","minimum":8,"average":"19.01","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"7.60","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Dread Ward","minimum":9,"average":"19.53","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"7.81","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Blood Forge","minimum":8,"average":"20.20","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"8.08","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Blending Talons","minimum":10,"average":"21.75","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"8.70","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Gourmand","minimum":10,"average":"21.38","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"8.55","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Hearty Nourishment","minimum":9,"average":"20.66","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.26","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Catapult","minimum":9,"average":"21.64","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.66","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Tribunal","minimum":5,"average":"21.53","median":15,"maximum":100,"minPlatPer10kRep":2,"averagePlatPer10kRep":"8.61","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Warding Thurible","minimum":5,"average":"20.60","median":15,"maximum":100,"minPlatPer10kRep":2,"averagePlatPer10kRep":"8.24","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Lasting Covenant","minimum":8,"average":"18.68","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"7.47","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Accumulating Whipclaw","minimum":7,"average":"16.13","median":15,"maximum":100,"minPlatPer10kRep":2.8,"averagePlatPer10kRep":"6.45","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Venari Bodyguard","minimum":9,"average":"20.98","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.39","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Savior Decoy","minimum":10,"average":"22.75","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"9.10","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Hushed Invisibility","minimum":10,"average":"19.94","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"7.98","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Irradiating Disarm","minimum":10,"average":"21.37","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"8.55","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Ballistic Bullseye","minimum":8,"average":"20.91","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"8.36","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Staggering Shield","minimum":8,"average":"21.63","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"8.65","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Muzzle Flash","minimum":9,"average":"20.97","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.39","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Mesa's Waltz","minimum":7,"average":"16.71","median":15,"maximum":100,"minPlatPer10kRep":2.8,"averagePlatPer10kRep":"6.68","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Creeping Terrify","minimum":9,"average":"21.40","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.56","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Shield of Shadows","minimum":8,"average":"19.57","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"7.83","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Venom Dose","minimum":8,"average":"17.33","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"6.93","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Revealing Spores","minimum":8,"average":"20.03","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"8.01","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Regenerative Molt","minimum":8,"average":"19.49","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"7.80","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Contagion Cloud","minimum":9,"average":"20.37","median":15,"maximum":155,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.15","medianPlatPer10kRep":6,"maxPlatPer10kRep":62}
+{"title":"Beguiling Lantern","minimum":10,"average":"21.89","median":15,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"8.76","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Razorwing Blitz","minimum":8,"average":"17.54","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"7.02","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Ironclad Flight","minimum":9,"average":"21.94","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"8.78","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Shock Trooper","minimum":8,"average":"17.47","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"6.99","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Shocking Speed","minimum":4,"average":"20.17","median":15,"maximum":100,"minPlatPer10kRep":1.6,"averagePlatPer10kRep":"8.07","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Transistor Shield","minimum":7,"average":"18.48","median":15,"maximum":100,"minPlatPer10kRep":2.8,"averagePlatPer10kRep":"7.39","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Capacitance","minimum":9,"average":"18.14","median":15,"maximum":100,"minPlatPer10kRep":3.6,"averagePlatPer10kRep":"7.26","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Jet Stream","minimum":8,"average":"21.70","median":15,"maximum":100,"minPlatPer10kRep":3.2,"averagePlatPer10kRep":"8.68","medianPlatPer10kRep":6,"maxPlatPer10kRep":40}
+{"title":"Toxic Blight","minimum":4,"average":"18.51","median":14,"maximum":100,"minPlatPer10kRep":1.6,"averagePlatPer10kRep":"7.40","medianPlatPer10kRep":5.6,"maxPlatPer10kRep":40}
+{"title":"Kaszas Blade","minimum":8,"average":"14.06","median":10,"maximum":100,"minPlatPer10kRep":4,"averagePlatPer10kRep":"7.03","medianPlatPer10kRep":5,"maxPlatPer10kRep":50}
+{"title":"Velocitus Stock","minimum":7,"average":"14.11","median":10,"maximum":100,"minPlatPer10kRep":3.5,"averagePlatPer10kRep":"7.05","medianPlatPer10kRep":5,"maxPlatPer10kRep":50}
+{"title":"Rathbone Handle","minimum":5,"average":"14.12","median":10,"maximum":90,"minPlatPer10kRep":2.5,"averagePlatPer10kRep":"7.06","medianPlatPer10kRep":5,"maxPlatPer10kRep":45}
+{"title":"Agkuza Handle","minimum":6,"average":"12.81","median":10,"maximum":100,"minPlatPer10kRep":3,"averagePlatPer10kRep":"6.41","medianPlatPer10kRep":5,"maxPlatPer10kRep":50}
+{"title":"Fluctus Limbs","minimum":5,"average":"13.56","median":10,"maximum":70,"minPlatPer10kRep":2.5,"averagePlatPer10kRep":"6.78","medianPlatPer10kRep":5,"maxPlatPer10kRep":35}
+{"title":"Pilfering Strangledome","minimum":7,"average":"14.94","median":12,"maximum":100,"minPlatPer10kRep":2.8,"averagePlatPer10kRep":"5.98","medianPlatPer10kRep":4.8,"maxPlatPer10kRep":40}
+{"title":"Despoil","minimum":5,"average":"15.23","median":12,"maximum":201,"minPlatPer10kRep":2,"averagePlatPer10kRep":"6.09","medianPlatPer10kRep":4.8,"maxPlatPer10kRep":80.4}
+{"title":"Rakta Ballistica","minimum":15,"average":"44.20","median":35,"maximum":150,"minPlatPer10kRep":1.5,"averagePlatPer10kRep":"4.42","medianPlatPer10kRep":3.5,"maxPlatPer10kRep":15}
+{"title":"Rakta Dark Dagger","minimum":24,"average":"45.12","median":39,"maximum":150,"minPlatPer10kRep":1.92,"averagePlatPer10kRep":"3.61","medianPlatPer10kRep":3.12,"maxPlatPer10kRep":12}
+{"title":"Rakta Cernos","minimum":15,"average":"43.03","median":35,"maximum":200,"minPlatPer10kRep":1.2,"averagePlatPer10kRep":"3.44","medianPlatPer10kRep":2.8,"maxPlatPer10kRep":16}

@@ -1,0 +1,84 @@
+{
+  "red_veil": [
+    {
+      "title": "Swift Bite",
+      "minimum": 5,
+      "average": "24.72",
+      "median": 20,
+      "maximum": 100,
+      "minPlatPer10kRep": 2,
+      "averagePlatPer10kRep": "9.89",
+      "medianPlatPer10kRep": 8,
+      "maxPlatPer10kRep": 40,
+      "price": 25000,
+      "buyable": 4.6
+    },
+    {
+      "title": "Spellbound Harvest",
+      "minimum": 10,
+      "average": "23.58",
+      "median": 20,
+      "maximum": 100,
+      "minPlatPer10kRep": 4,
+      "averagePlatPer10kRep": "9.43",
+      "medianPlatPer10kRep": 8,
+      "maxPlatPer10kRep": 40,
+      "price": 25000,
+      "buyable": 4.6
+    },
+    {
+      "title": "Soul Survivor",
+      "minimum": 5,
+      "average": "23.43",
+      "median": 18,
+      "maximum": 100,
+      "minPlatPer10kRep": 2,
+      "averagePlatPer10kRep": "9.37",
+      "medianPlatPer10kRep": 7.2,
+      "maxPlatPer10kRep": 40,
+      "price": 25000,
+      "buyable": 4.6
+    }
+  ],
+  "steel_meridian": [
+    {
+      "title": "Hallowed Eruption",
+      "minimum": 10,
+      "average": "23.67",
+      "median": 20,
+      "maximum": 100,
+      "minPlatPer10kRep": 4,
+      "averagePlatPer10kRep": "9.47",
+      "medianPlatPer10kRep": 8,
+      "maxPlatPer10kRep": 40,
+      "price": 25000,
+      "buyable": 2.76
+    },
+    {
+      "title": "Hallowed Reckoning",
+      "minimum": 9,
+      "average": "25.61",
+      "median": 20,
+      "maximum": 100,
+      "minPlatPer10kRep": 3.6,
+      "averagePlatPer10kRep": "10.24",
+      "medianPlatPer10kRep": 8,
+      "maxPlatPer10kRep": 40,
+      "price": 25000,
+      "buyable": 2.76
+    },
+    {
+      "title": "Smite Infusion",
+      "minimum": 9,
+      "average": "22.76",
+      "median": 19,
+      "maximum": 100,
+      "minPlatPer10kRep": 3.6,
+      "averagePlatPer10kRep": "9.10",
+      "medianPlatPer10kRep": 7.6,
+      "maxPlatPer10kRep": 40,
+      "price": 25000,
+      "buyable": 2.76
+    }
+  ]
+}
